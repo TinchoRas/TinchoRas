@@ -18,5 +18,5 @@
    * Sequelize
    
 ## Contact Me
-[Linkedin](https://www.linkedin.com/in/mart%C3%ADn-raschinsky-083546158/)
-[E-mail]()
+* [Linkedin](https://www.linkedin.com/in/mart%C3%ADn-raschinsky-083546158/)
+
